@@ -8,6 +8,8 @@
 
 [pcurl](https://github.com/antlabs/pcurl) 解析curl命令库，生成*http.Request，让你的应用瞬间秒懂curl。
 
+[strsim](https://github.com/antlabs/strsim) 计算字符串相似度库，后端集成多种算法
+
 [timer](https://github.com/antlabs/timer) 基于5级时间轮实现的定时器，性能可观，fast, fast, fast
 
 [deepcopy](https://github.com/antlabs/deepcopy) 深度拷贝库，支持异构struct， map, slice等数据结构的深度拷贝
