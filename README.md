@@ -15,3 +15,5 @@
 [deepcopy](https://github.com/antlabs/deepcopy) 深度拷贝库，支持异构struct， map, slice等数据结构的深度拷贝
 
 [brouter](https://github.com/antlabs/brouter) 高性能http router库，API风格类似httprouter，比1.3.0的httprouter快50-60%的样子，比开发版本的httprouter慢一点，大约是 92-95%的性能
+
+[httparser](https://github.com/antlabs/httparser) 高性能http 1.1解析器，为你的异步io库插上http1.1解析的翅膀, 每秒可以处理300MB/s流量
