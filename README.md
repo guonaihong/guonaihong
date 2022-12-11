@@ -17,3 +17,5 @@
 [brouter](https://github.com/antlabs/brouter) 高性能http router库，API风格类似httprouter，比1.3.0的httprouter快50-60%的样子，比开发版本的httprouter慢一点，大约是 92-95%的性能
 
 [httparser](https://github.com/antlabs/httparser) 高性能http 1.1解析器，为你的异步io库插上http1.1解析的翅膀, 每秒可以处理630.15MB/s流量
+
+[tinyws](https://github.com/antlabs/tinyws) websocket协议库，包含客户端，服务端
