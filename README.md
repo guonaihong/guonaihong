@@ -1,5 +1,9 @@
 喜爱golang
 
+## 开发环境
+编辑器 [LunarVim](https://github.com/LunarVim/LunarVim)  
+语言 go为主力
+
 ## 开源项目
 [gout](https://github.com/guonaihong/gout) restful api和  http benchmark lib
 
@@ -12,7 +16,7 @@
 
 [timer](https://github.com/antlabs/timer) 基于5级时间轮实现的定时器，性能可观，fast, fast, fast
 
-[deepcopy](https://github.com/antlabs/deepcopy) 深度拷贝库，支持异构struct， map, slice等数据结构的深度拷贝
+[pcopy](https://github.com/antlabs/pcopy) 高性能深度拷贝库。相比上个版本提升4-10倍性能
 
 [brouter](https://github.com/antlabs/brouter) 高性能http router库，API风格类似httprouter，比1.3.0的httprouter快50-60%的样子，比开发版本的httprouter慢一点，大约是 92-95%的性能
 
