@@ -10,7 +10,7 @@
 
 [quickws](https://github.com/antlabs/quickws) 高性能websocket协议库，包含客户端，服务端, 5800h cpu tps可以到47-48w/s
 
-[bigws](https://github.com/antlabs/bigws) 针对海量websocket链接特别优化，支持kqueue和epoll(早期阶段，还在优化中。。。)
+[greatws](https://github.com/antlabs/greatws) 针对海量websocket链接特别优化，支持kqueue和epoll(早期阶段，还在优化中。。。)
 ### util包
 [gout](https://github.com/guonaihong/gout) restful api和  http benchmark lib
 
