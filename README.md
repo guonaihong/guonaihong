@@ -1,4 +1,4 @@
-喜爱golang
+golang爱好者
 
 喜欢折腾协议，日常crud
 ## 开发环境
@@ -9,9 +9,9 @@
 ## 开源项目
 ### 协议
 
-[quickws](https://github.com/antlabs/quickws) 高性能websocket协议库，包含客户端，服务端, 5800h cpu tps可以到47-48w/s
+[quickws](https://github.com/antlabs/quickws) 满足高tps场景的websocket协议库，包含客户端，服务端, 5800h cpu tps可以到47-48w/s
 
-[greatws](https://github.com/antlabs/greatws) 针对海量websocket链接特别优化，支持kqueue和epoll(早期阶段，还在优化中。。。)
+[greatws](https://github.com/antlabs/greatws) 针对海量websocket链接特别优化，基于kqueue和epoll， 100w websocket连接，只需550-750MB内存(早期阶段，还在优化中。。。)
 ### util包
 [gout](https://github.com/guonaihong/gout) restful api和  http benchmark lib
 
