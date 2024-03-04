@@ -4,7 +4,7 @@ golang爱好者
 ## 开发环境
 编辑器 [LunarVim](https://github.com/LunarVim/LunarVim)  -> vscode
 
-语言 go为主力
+语言 go为主力，现在学习rust。
 
 ## 开源项目
 ### 协议
