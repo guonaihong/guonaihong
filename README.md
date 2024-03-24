@@ -1,22 +1,23 @@
 ## 简介
-if/else 工程师，对于协议特别感兴趣
+if/else 工程师，个人兴趣=研究协议
 
 ## 开发环境
 
-编辑器 [LunarVim](https://github.com/LunarVim/LunarVim)  -> vscode
+vscode + vim 模式
 
 语言 go为主力，正在学习rust。
 
 ## 开源项目
 
 ### 协议
-
+#### websocket  
 [quickws](https://github.com/antlabs/quickws) 满足高tps场景的websocket协议库，包含客户端，服务端, 5800h cpu tps可以到47-48w/s
 
 [greatws](https://github.com/antlabs/greatws) 针对海量websocket链接特别优化，基于kqueue和epoll， 100w websocket连接，只需400-500MB内存(早期阶段)
+#### TODO
+。。。
 
 ### util包
-
 [gout](https://github.com/guonaihong/gout) restful api和  http benchmark lib
 
 [clop](https://github.com/guonaihong/clop) 命令行解析器，只要会写struct，定义tag，轻松实现gnu 风格命令行
