@@ -16,7 +16,7 @@ vscode + vim 模式
 
 [quickws](https://github.com/antlabs/quickws) 满足高tps场景的websocket协议库，包含客户端，服务端, 5800h cpu tps可以到47-48w/s
 
-[greatws](https://github.com/antlabs/greatws) 针对海量websocket链接特别优化，基于kqueue和epoll， 100w websocket连接，只需400-500MB内存(早期阶段)
+[greatws](https://github.com/antlabs/greatws) 针对海量websocket链接特别优化，基于kqueue和epoll， 100w websocket连接，只需500-700MB内存(早期阶段)
 
 #### http
 
