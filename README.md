@@ -26,6 +26,9 @@ vscode + vim 模式
 
 。。。
 
+### go/ast util包
+[quickcopy](https://github.com/antlabs/quickcopy) 基于静态代码生成的copy库，理论上超越一切基于反射的解决方案
+
 ### util包
 
 [gout](https://github.com/guonaihong/gout) restful api和  http benchmark lib
@@ -35,7 +38,5 @@ vscode + vim 模式
 [pcurl](https://github.com/antlabs/pcurl) 解析curl命令库，生成*http.Request，让你的应用瞬间秒懂curl。
 
 [timer](https://github.com/antlabs/timer) 基于5级时间轮实现的定时器，性能可观，fast, fast, fast
-
-[pcopy](https://github.com/antlabs/pcopy) 高性能深度拷贝库。相比上个版本提升4-10倍性能
 
 [brouter](https://github.com/antlabs/brouter) 高性能http router库，API风格类似httprouter，比1.3.0的httprouter快50-60%的样子，比开发版本的httprouter慢一点，大约是 92-95%的性能
